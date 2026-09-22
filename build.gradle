@@ -3,7 +3,7 @@ plugins {
     id 'checkstyle'
 }
 
-group = 'ai.fightme'
+group = 'ai.seeker'
 version = '1.0.0'
 
 repositories {

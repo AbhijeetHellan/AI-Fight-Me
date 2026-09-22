@@ -7,8 +7,11 @@ build/
 *.jar
 
 # Eclipse generated files
+.settings/
+.classpath
+.project
 bin/
 
-# Operating system files
+# OS files
 .DS_Store
 Thumbs.db

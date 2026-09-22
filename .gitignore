@@ -12,6 +12,10 @@ build/
 .project
 bin/
 
-# OS files
+# IntelliJ generated files
+.idea/
+*.iml
+
+# Operating system files
 .DS_Store
 Thumbs.db

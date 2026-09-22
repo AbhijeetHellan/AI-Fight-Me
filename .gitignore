@@ -1,0 +1,14 @@
+# Gradle generated files
+.gradle/
+build/
+
+# Java compiled files
+*.class
+*.jar
+
+# Eclipse generated files
+bin/
+
+# Operating system files
+.DS_Store
+Thumbs.db
